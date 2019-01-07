@@ -42,13 +42,13 @@ app.get('/Brendan_of_Clonfert', (req, res) => {
 
 app.get('/Columba_of_Terryglass', (req, res) => {
   res.render('St. Columba of Terryglass.hbs', {
-    pageTitle: 'St. Columba of Terryglass'
+    pageTitle: 'St. Columba of Terryglass (d. 552)'
   });
 });
 
 app.get('/Columba', (req, res) => {
   res.render('St. Columba.hbs', {
-    pageTitle: 'St. Columba'
+    pageTitle: 'St. Columba of Iona (521 - 597)'
   });
 });
 
