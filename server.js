@@ -54,7 +54,7 @@ app.get('/Columba', (req, res) => {
 
 app.get('/Mohbi_of_Glasnevin', (req, res) => {
   res.render('St. Mohbi of Glasnevin.hbs', {
-    pageTitle: 'St. Mohbi of Glasnevin'
+    pageTitle: 'St. Mohbi of Glasnevin (d. 544)'
   });
 });
 
