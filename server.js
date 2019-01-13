@@ -60,31 +60,31 @@ app.get('/Mohbi_of_Glasnevin', (req, res) => {
 
 app.get('/Ruadhain_of_Lorrha', (req, res) => {
   res.render('St. Ruadhain of Lorrha.hbs', {
-    pageTitle: 'St. Ruadhain of Lorrha'
+    pageTitle: 'St. Ruadhain of Lorrha (d. 584)'
   });
 });
 
 app.get('/Senan_of_Iniscathay', (req, res) => {
   res.render('St. Senan of Iniscathay.hbs', {
-    pageTitle: 'St. Senan of Iniscathay'
+    pageTitle: 'St. Senan of Iniscathay(488-?)'
   });
 });
 
 app.get('/Ninnidh_of_Lough_Erne', (req, res) => {
   res.render('St. Ninnidh of Lough Erne.hbs', {
-    pageTitle: 'St. Ninnidh of Lough Erne'
+    pageTitle: 'St. Ninnidh of Lough Erne(6th Century)'
   });
 });
 
 app.get('/Laisren_mac_Nad_Froich', (req, res) => {
   res.render('St. Laisrén mac Nad Froích.hbs', {
-    pageTitle: 'St. Laisrén mac Nad Froích'
+    pageTitle: 'St. Laisrén mac Nad Froích(d. 564)'
   });
 });
 
 app.get('/Canice_of_Aghaboe', (req, res) => {
   res.render('St. Canice of Aghaboe.hbs', {
-    pageTitle: 'St. Canice of Aghaboe'
+    pageTitle: 'St. Canice of Aghaboe(515-600)'
   });
 });
 
